@@ -64,10 +64,6 @@ UDはボトムアップ的に記述を進めるため，現行の基準ではコ
 
 #### 例
 
-* [tr] _eve <b>gidiyor</b>_ “she is going home (now)”
-* [tr] _eve <b>gitmekte</b>_ “she is going home (now)”
-* [tr] _eve <b>gidiyordu</b>_ “she was going home (when I saw her)”
-* [tr] _eve <b>gimekteydi</b>_ “she was going home (when I saw her)”
 
 ### <a name="Hab">`Hab`</a>: 習慣アスペクト (habitual aspect)
 
