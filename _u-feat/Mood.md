@@ -35,9 +35,7 @@ udver: '2'
   university."
 * [de] _<b>Du studierst</b> an der Universität._ "<b>You study</b> at
   the university."
-* [fr] _Tu le <b>fais</b>._ "You <b>do</b> it."
-* [tr] *eve <b>gidiyor</b>* "she is going home"
-* [tr] *eve <b>gitti</b>* "she went home"
+
 
 ### <a name="Imp">`Imp`</a>: 命令法 (imperative)
 
@@ -45,12 +43,7 @@ udver: '2'
 
 #### 例
 
-* [cs] _<b>Studuj</b> na univerzitě!_ "<b>Study</b> at the university!"
-* [de] _<b>Studiere</b> an der Universität!_ "<b>Study</b> at the university!"
-* [tr] *eve <b>git</b>* "go home!"
-* [tr] *eve <b>gidin</b>* "go home!" (plural)
-* [tr] *eve <b>gitsin</b>* "[let him] go home!" (3rd person imperative)
-* [sa] <b>ब्रूहि</b> राजः / _<b>brūhi</b> rājaḥ_ "<b>tell</b> the king"
+*
 
 ### <a name="Cnd">`Cnd`</a>: 条件法 (conditional)
 
@@ -59,12 +52,8 @@ udver: '2'
 #### 例
 
 * [cs] <i>Kdy<b>bych</b> byl chytrý, studoval <b>bych</b> na
-  univerzitě.</i> "If I were smart I <b>would</b> study at the
-  university" (助動詞の_bych_だけが条件法に特有のものである; 能動的な分詞_byl_ は条件法を分析的に形成するのに必要であるが，過去時制の直接法を形成するためにも用いられるので_byl_は単に分詞としてタグ付けられる．)
-* [tr] *eve <b>gittiyse</b>* "if she went home"
-* [tr] *eve <b>gidiyorsa</b>* "if she is going home"
-* [tr] *eve <b>giderse</b>* "if she goes home"
-* [tr] *eve <b>gidecekdiyse</b>* "if she was going to go home"
+  univerzitě.</i> 
+  niversity" (助動詞の_bych_だけが条件法に特有のものである; 能動的な分詞_byl_ は条件法を分析的に形成するのに必要であるが，過去時制の直接法を形成するためにも用いられるので_byl_は単に分詞としてタグ付けられる．)
 
 ### <a name="Pot">`Pot`</a>: 可能法 (potential)
 
@@ -72,8 +61,7 @@ udver: '2'
 
 #### 例
 
-* [tr] *eve <b>gidebilir</b>* "she can go home"
-* [tr] *eve <b>gidemeyebilir</b>* "she may not be able to go home"
+* [tr] eve <b>gidebilir</b>*ve <b>gidemeyebilir</b>* 
 
 ### <a name="Sub">`Sub`</a>: 接続法 (subjunctive / conjunctive)
 
@@ -81,8 +69,6 @@ udver: '2'
 
 #### 例
 
-* [fr] <i>Je veux que tu le <b>fasses</b></i> "I want you to do it" lit. <i>I
-  want that you it do</i><tt>.Sub</tt>
 
 ### <a name="Jus">`Jus`</a>: 指令法 (jussive / injunctive)
 
@@ -106,22 +92,18 @@ udver: '2'
 
 #### 例
 
-* [tr] *eve <b>gidelim</b>* 'let's go home'
-* [sa] अप्रधानः प्रधानः <b>स्यात्</b> / _apradhānaḥ pradhānaḥ <b>syāt</b>_ "the unimportant person <b>may be (become)</b> important"
 
 ### <a name="Des">`Des`</a>: 願望法 (desiderative)
 
-願望法は法動詞"want to"に対応する: ""He <b>wants to come</b>.""
+
 願望法はトルコ語などで用いられる．
 
 ### <a name="Nec">`Nec`</a>: 必然法 (necessitative)
 
-必然法は事象の必然性を表し，法動詞"must, shoud, have to"に対応する: "He <b>must</b><b> come</b>."
+必然法は事象の必然性を表し，法動詞"
 
 #### 例
 
-* [tr] *eve <b>gitmeli</b>* 'she should go home'
-* [tr] *eve <b>gitmeliydi</b>* 'she should have gone home'
 
 ### <a name="Adm">`Adm`</a>: 感嘆法 (admirative)
 
